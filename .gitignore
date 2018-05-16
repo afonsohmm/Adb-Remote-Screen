@@ -6,3 +6,4 @@ screen.png
 *.iml
 *.class
 
+/target/
